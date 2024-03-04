@@ -1,3 +1,10 @@
+## About me:
+Self-Thaught Full-Stack Developer
+Marketing Pioneer
+
+
+
+
 ## 💻Tech Stack
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,4 +19,3 @@
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![WebAssembly Badge](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=for-the-badge)
 ![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=for-the-badge)
-![C#](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
