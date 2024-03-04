@@ -1,6 +1,6 @@
 ## About me:
-### Self-Thaught Full-Stack Developer
-### Marketing Pioneer
+#### Self-Thaught Full-Stack Developer
+#### Marketing Pioneer
 
 
 
