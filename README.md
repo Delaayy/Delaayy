@@ -1,7 +1,6 @@
 ## About me:
 #### Self-Thaught Full-Stack Developer
-#### Marketing Pioneer
-#### E-Commerce Entrepreneur
+#### E-Commerce
 
 
 
