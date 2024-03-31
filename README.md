@@ -1,6 +1,5 @@
 ## About me:
 #### Self-Thaught Full-Stack Developer
-#### E-Commerce
 
 
 
